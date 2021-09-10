@@ -21,6 +21,7 @@ ul {
 
 img {
   width: 100%;
+  border-radius: 7px;
 }
 
 .headline {
@@ -53,10 +54,11 @@ img {
 
 .btn {
   width: 100%;
-  text-align: center;
+  /* text-align: center; */
   padding: 0.8rem 0;
   background: lightblue;
   border: none;
+  cursor: pointer;
 }
 
 .tabs-content-container {
